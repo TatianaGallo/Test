@@ -1,1 +1,3 @@
 Esto es un código
+
+Mi amigo cambió el código
